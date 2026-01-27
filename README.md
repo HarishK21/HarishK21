@@ -2,7 +2,7 @@
 
 My name is Harish, and I'm a 3rd Year CS Student @ TMU interested in AI/ML & Full Stack Software Development!
 
-- 🔭 I’m currently working on API Integration to enhance my projects.
+- 🔭 I’m currently working on mmy custom E-Commerce Platform, which can be found [here](https://github.com/HarishK21/E-CommercePlatform).
 - 🌱 I’m currently learning MERN stack technologies, including MongoDB, ExpressJS, ReactJS and NodeJS.
 - 👯 I’m looking to collaborate on Software Application Projects!
   - Send me inquiries at harishkiritharan@gmail.com
