@@ -3,7 +3,7 @@
 My name is Harish, and I'm a 3rd Year CS Student @ TMU interested in AI/ML & Full Stack Software Development!
 
 - 🔭 I’m currently preparing for my next hackathon, GenAI Genesis!
-- 🌱 I’m currently learning MERN stack technologies, including MongoDB, ExpressJS, ReactJS and NodeJS.
+- 🌱 I’m currently learning MERN stack technologies, including MongoDB, ExpressJS, React and NodeJS.
 - 👯 I’m looking to collaborate on Software Application Projects!
   - Send me inquiries at harishkiritharan@gmail.com
   - Or we can connect on [LinkedIn](https://www.linkedin.com/in/harishkiritharan/)!
